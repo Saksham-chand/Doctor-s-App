@@ -59,9 +59,9 @@ Data Analysis	NumPy, Pandas
 Visualization	Matplotlib
 
 🏗️ System Architecture
-User Input
-     |
-     ▼
+     User Input
+          |
+          ▼
      
 Streamlit Interface
      │
