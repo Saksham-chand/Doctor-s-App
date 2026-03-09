@@ -61,12 +61,10 @@ Visualization	Matplotlib
 🏗️ System Architecture
 User Input
      |
-     
      ▼
      
 Streamlit Interface
      │
-     
      ▼
      
 AI Models
