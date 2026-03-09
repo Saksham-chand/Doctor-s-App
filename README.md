@@ -60,11 +60,15 @@ Visualization	Matplotlib
 
 🏗️ System Architecture
 User Input
-     │
+     |
+     
      ▼
+     
 Streamlit Interface
      │
+     
      ▼
+     
 AI Models
  ├── Diabetes Prediction Model
  ├── Brain Tumor Detection Model
