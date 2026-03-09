@@ -43,13 +43,21 @@ Achieved 88.68% accuracy
 
 🧠 Technologies Used
 Category	Technologies
-Programming	Python
+
+Programming	Python 
+
 Framework	Streamlit
+
 Machine Learning	Scikit-learn
+
 Deep Learning	TensorFlow / Keras
+
 Image Processing	OpenCV
+
 Data Analysis	NumPy, Pandas
+
 Visualization	Matplotlib
+
 🏗️ System Architecture
 User Input
      │
